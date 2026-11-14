@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+  <channel>
+    <title>ScreenLock Beta</title>
+    <link>https://raw.githubusercontent.com/fedorenkodenis/screenlock-beta/main/appcast.xml</link>
+    <item>
+      <title>ScreenLock 1.13.1</title>
+      <pubDate>Sat, 14 Nov 2026 21:59:02 GMT</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>1.13.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/fedorenkodenis/screenlock-beta/releases/download/v1.13.1/ScreenLock-1.13.1-19.zip" length="2857729" type="application/octet-stream" sparkle:edSignature="3fAmr/B0knRFTtqZNoWDwwn0aaSGomRM95oD2gv0dL/QtlIdUciCdt39zkEs/OPOdsNn7eOTNHO3KGGkJyOXAg=="></enclosure>
+    </item>
+  </channel>
+</rss><!-- sparkle-signatures:
+edSignature: Uv416sao8Yp6JqJVzhKN4+AiRwttDVeznLhoSfWl9IHKvhx5VpbfUuOG/xPOwRNtOKuZQeD2a7oUdjJ+shE1DA==
+length: 1144
+-->
