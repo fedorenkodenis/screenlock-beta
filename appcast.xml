@@ -5,6 +5,14 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     <title>ScreenLock Beta</title>
     <link>https://raw.githubusercontent.com/fedorenkodenis/screenlock-beta/main/appcast.xml</link>
     <item>
+      <title>ScreenLock 1.14.4</title>
+      <pubDate>Mon, 23 Nov 2026 12:19:46 GMT</pubDate>
+      <sparkle:version>26</sparkle:version>
+      <sparkle:shortVersionString>1.14.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/fedorenkodenis/screenlock-beta/releases/download/v1.14.4/ScreenLock-1.14.4-26.zip" length="2888412" type="application/octet-stream" sparkle:edSignature="VLM8x12sbx6rYH5oHqvOLEW28UawRZ38yx31G3TW2bx8qZ1Zmtb+ZyLGwSX/DLhzRD2HUPUE4K7d7kMv0e0xAw=="></enclosure>
+    </item>
+    <item>
       <title>ScreenLock 1.14.3</title>
       <pubDate>Sat, 21 Nov 2026 14:54:40 GMT</pubDate>
       <sparkle:version>25</sparkle:version>
@@ -62,6 +70,6 @@ IMPORTANT: This file was signed by Sparkle. Any modifications to this file requi
     </item>
   </channel>
 </rss><!-- sparkle-signatures:
-edSignature: 6LRnSR58M86/JTgv8H7slNk9QlMG7zOHrUjf2rcGZ5RFmvvuYwyF4sX8xrOcrYlzJ5pMGJQPA4YkxbL1vqfiCw==
-length: 4744
+edSignature: qJnrgcpPW4b8gNFq2df28v1prXEzppPKO/5GT9Acr4CpwJHh2p2tHP80cJ8jwrTWvPe/vwZ203IPy1TUszzbBA==
+length: 5344
 -->
